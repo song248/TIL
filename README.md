@@ -13,6 +13,8 @@ Today I Learned
 - sVLM
 - RAG(Semantic Search)
 - ollama
+- Word2Vec
+- MoE
 
 ### Back
 - socket
