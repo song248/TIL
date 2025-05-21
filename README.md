@@ -15,7 +15,11 @@ Today I Learned
 - ollama
 - Word2Vec
 - MoE
+- Perception Encoder
 
 ### Back
 - socket
 - restfulAPI/FastAPI
+
+### Python
+- pytest(debug)
