@@ -16,6 +16,7 @@ Today I Learned
 - Word2Vec
 - MoE
 - Perception Encoder
+- DINO
 
 ### Back
 - socket
