@@ -17,6 +17,7 @@ Today I Learned
 - MoE
 - Perception Encoder
 - DINO
+- LoRA
 
 ### Back
 - socket
