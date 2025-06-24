@@ -7,6 +7,8 @@ Today I Learned
 ### AI
 - BLIP
 - LLaVa
+  - LLaVa-OneVision
+  - Video-LLaVa
 - Qwen
 - Deepseek
 - Optimization
