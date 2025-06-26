@@ -6,9 +6,6 @@ Today I Learned
 
 ### AI
 - BLIP
-- LLaVa
-  - LLaVa-OneVision
-  - Video-LLaVa
 - Qwen
 - Deepseek
 - Optimization
@@ -20,6 +17,7 @@ Today I Learned
 - Perception Encoder
 - DINO
 - LoRA
+- SigLIP 1,2
 
 ### Back
 - socket
