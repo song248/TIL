@@ -18,6 +18,8 @@ Today I Learned
 - DINO
 - LoRA
 - SigLIP 1,2
+- InternVL
+- Deepspeed
 
 ### Back
 - socket
