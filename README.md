@@ -5,25 +5,27 @@ Today I Learned
 ## 2025 TIL Keyword
 
 ### AI
-- BLIP
+- Perception Encoder
+- DINO -> v1,2,3
+- InternVL 3
+- LoRA
+- SigLIP 1,2
 - Qwen
-- Deepseek
+- Mixed Precision
 - Optimization
 - sVLM
 - RAG(Semantic Search)
+- MoE
 - ollama
 - Word2Vec
-- MoE
-- Perception Encoder
-- DINO
-- LoRA
-- SigLIP 1,2
-- InternVL
-- Deepspeed
 
 ### Back
 - socket
 - restfulAPI/FastAPI
+- Kubernetes
+- Docker
+- RabbitMQ
+- Node.js
 
 ### Python
 - pytest(debug)

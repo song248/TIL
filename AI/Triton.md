@@ -6,7 +6,7 @@ citation
 https://developer.nvidia.com/ko-kr/nvidia-triton-inference-server  
 https://peaceatlast.tistory.com/25
 
-<img src = "triton.png"  width="80%">
+<img src="../IMG/triton.png"  width="70%" >
 
 ## Triton으로 모델을 서빙하기 위하여 개발자가 해야할 일
 ### 1. 서버를 세팅
