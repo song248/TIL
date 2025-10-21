@@ -8,7 +8,8 @@ Today I Learned
 - Perception Encoder
 - DINO -> v1,2,3
 - InternVL 3
-- LoRA
+- LoRA(+Peft, Adapter)
+- MHCA(Multi-Head Cross Attention)
 - SigLIP 1,2
 - Qwen
 - Mixed Precision
