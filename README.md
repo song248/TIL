@@ -19,6 +19,8 @@ Today I Learned
 - MoE
 - ollama
 - Word2Vec
+- tmux
+- wandb/tenserboard
 
 ### Back
 - socket
