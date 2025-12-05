@@ -9,11 +9,12 @@ Today I Learned
 - DINO -> v1,2,3
 - InternVL 3
 - LoRA(+Peft, Adapter)
-- MHCA(Multi-Head Cross Attention)
+- ~~MHCA(Multi-Head Cross Attention)~~
 - SigLIP 1,2
 - Qwen
-- Mixed Precision
-- Optimization
+- ~~DETR~~
+- ~~Mixed Precision~~
+- ~~Optimization(ONNX, TensorRT)~~
 - sVLM
 - RAG(Semantic Search)
 - MoE
@@ -24,11 +25,11 @@ Today I Learned
 
 ### Back
 - socket
-- restfulAPI/FastAPI
+- restfulAPI/~~FastAPI~~
 - Kubernetes
 - Docker
-- RabbitMQ
+- ~~RabbitMQ~~
 - Node.js
 
 ### Python
-- pytest(debug)
+- ~~pytest(debug)~~
